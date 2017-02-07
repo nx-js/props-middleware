@@ -8,7 +8,7 @@ module.exports = function propsFactory(...propNames) {
   }
   props.$name = 'props'
   props.$require = ['attributes']
-  props.$type = ['component']
+  props.$type = 'component'
   return props
 }
 
