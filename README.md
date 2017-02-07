@@ -5,9 +5,7 @@ The `props` allows you to inject data into reusable components.
 - name: props
 - middleware dependencies: [attributes](https://github.com/nx-js/attributes-middleware)
 - all middleware dependencies: [observe](https://github.com/nx-js/observe-middleware), [attributes](https://github.com/nx-js/attributes-middleware)
-- processes: element nodes
-- throws on: text nodes
-- use as: component middleware
+- type: component middleware
 - [docs](http://nx-framework.com/docs/middlewares/props)
 
 ## Installation
