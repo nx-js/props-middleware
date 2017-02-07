@@ -1,0 +1,28 @@
+{
+  "name": "@nx-js/props-middleware",
+  "version": "1.0.0",
+  "description": "An NX middleware, responsible for injecting properties into reusable components.",
+  "main": "props.js",
+  "author": {
+    "name": "Miklos Bertalan",
+    "email": "miklos.bertalan@risingstack.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nx-js/props-middleware.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nx-js/props-middleware/issues"
+  },
+  "homepage": "http://nx-framework.com",
+  "license": "MIT",
+  "keywords": [
+    "nx",
+    "middleware",
+    "props",
+    "properties"
+  ],
+  "peerDependencies": {
+    "@nx-js/attributes-middleware": "^1.0.0"
+  }
+}
