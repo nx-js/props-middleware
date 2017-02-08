@@ -1,6 +1,6 @@
 # The props middleware
 
-The `props` allows you to inject data into reusable components.
+The `props` middleware is responsible for injecting static or dynamic properties into reusable components.
 
 - name: props
 - middleware dependencies: [attributes](https://github.com/nx-js/attributes-middleware)
